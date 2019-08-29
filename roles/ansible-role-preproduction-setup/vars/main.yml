@@ -1,5 +1,5 @@
 ---
-username: 'user'
+username: 'ubuntu'
 # vars file for docker-preproduction
 preproduction-ip: localhost
 dependencies:
